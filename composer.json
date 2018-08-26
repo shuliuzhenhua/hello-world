@@ -1,0 +1,6 @@
+{
+    "name": "shuliuzhenhua/hello-world",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
